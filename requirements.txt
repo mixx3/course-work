@@ -2,4 +2,6 @@ numpy
 opencv-python
 sklearn
 matplotlib
-pytest
+requests
+selenium
+webdriver_manager
